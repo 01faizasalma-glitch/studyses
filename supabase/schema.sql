@@ -1,0 +1,1 @@
+-- Placeholder for the database schema in a later roadmap stage.
